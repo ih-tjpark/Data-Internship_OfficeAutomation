@@ -16,7 +16,7 @@
 4.  검색 실패 시 **Naver Search Api**를 이용해 상호 or 회사명으로 검색 후 주소 저장
 <br>
   
-5.  검색된 주소와 기존 공공데이터 파일의 **주소를 비교** (비교 전 전처리 진행)  
+5.  검색된 주소와 기존 공공데이터 파일의 주소를 **비교 전 전처리 진행**  
 ![image](https://user-images.githubusercontent.com/57780594/169348652-a33bb144-d704-439d-9e6d-a3d80a8e2cc0.png)
 <br>
   
